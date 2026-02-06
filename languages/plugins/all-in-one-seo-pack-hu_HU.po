@@ -1,0 +1,2499 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-02-06 15:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: hu_HU\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – "
+"Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)"
+"\n"
+"Language-Team: Magyar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-06 15:33+0000\n"
+"Last-Translator: Csaba Mikei\n"
+"X-Loco-Version: 2.6.7; wp-6.6.2"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Term name, 4: Taxonomy singular name.
+#: app/Common/Rss.php:296
+#, php-format
+msgid "%1$s %2$s %3$s %4$s Feed"
+msgstr "%1$s %2$s %3$s %4$s hírcsatorna"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Category name.
+#: app/Common/Rss.php:292
+#, php-format
+msgid "%1$s %2$s %3$s Category Feed"
+msgstr "%1$s %2$s %3$s kategória hírcsatorna"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Post title.
+#: app/Common/Rss.php:290
+#, php-format
+msgid "%1$s %2$s %3$s Comments Feed"
+msgstr "%1$s %2$s %3$s hozzászólások hírcsatorna"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Post type name.
+#: app/Common/Rss.php:302
+#, php-format
+msgid "%1$s %2$s %3$s Feed"
+msgstr "%1$s %2$s %3$s hírcsatorna"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Tag name.
+#: app/Common/Rss.php:294
+#, php-format
+msgid "%1$s %2$s %3$s Tag Feed"
+msgstr "%1$s %2$s %3$s címke hírcsatorna"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Author name.
+#: app/Common/Rss.php:298
+#, php-format
+msgid "%1$s %2$s Posts by %3$s Feed"
+msgstr "%1$s %2$s Bejegyzések %3$s által hírcsatorna"
+
+#. 1 - Blog name, 2 - Separator (raquo), 3 - Search query.
+#: app/Common/Rss.php:300
+#, php-format
+msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
+msgstr "%1$s %2$s Keresési eredmények erre: &#8220;%3$s&#8221; hírcsatorna"
+
+#. 1 - The plugin name ("All in One SEO").
+#: app/Lite/Admin/Connect.php:160
+#, php-format
+msgid "%1$s &rsaquo; Connect"
+msgstr "%1$s &rsaquo; Kapcsolódás"
+
+#. 1 - The plugin name ("All in One SEO").
+#: app/Common/Standalone/SetupWizard.php:173
+#, php-format
+msgid "%1$s &rsaquo; Onboarding Wizard"
+msgstr "%1$s &rsaquo; Beállítási varázsló"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Breadcrumbs/Widget.php:50
+#, php-format
+msgid "%1$s - Breadcrumbs"
+msgstr "%1$s - Kenyérmorzsa navigáció"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Sitemap/Html/Widget.php:56
+#, php-format
+msgid "%1$s - HTML Sitemap"
+msgstr "%1$s - HTML webhelytérkép"
+
+#. 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:232
+#, php-format
+msgid "%1$s Brand"
+msgstr "%1$s Márka"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:462
+#, php-format
+msgid "%1$s Content"
+msgstr "%1$s Tartalom"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:468
+#, php-format
+msgid "%1$s Date"
+msgstr "%1$s Dátum"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:474
+#, php-format
+msgid "%1$s Day"
+msgstr "%1$s Nap"
+
+#. 1 - The plugin name ("All in One SEO).
+#: app/Common/Api/Tools.php:138
+#, php-format
+msgid "%1$s Debug Info"
+msgstr "%1$s Hibakeresési információ"
+
+#. 1 - The plugin name ("All in One SEO"), 2 - The Site URL.
+#: app/Common/Api/Tools.php:122
+#, php-format
+msgid "%1$s Debug Info from %2$s"
+msgstr "%1$s hibakeresési információ innen: %2$s"
+
+#. 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:574
+#, php-format
+msgid "%1$s Description"
+msgstr "%1$s Leírás"
+
+#. 1 - The short plugin name ("AIOSEO").
+#: app/Common/Standalone/DetailsColumn.php:148
+#, php-format
+msgid "%1$s Details"
+msgstr "%1$s Részletek"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:480
+#, php-format
+msgid "%1$s Excerpt"
+msgstr "%1$s Kivonat"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:486
+#, php-format
+msgid "%1$s Excerpt Only"
+msgstr "%1$s Csak kivonat"
+
+#. 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name ("AIOSEO").
+#: app/Common/Tools/RobotsTxt.php:381
+#, php-format
+msgid ""
+"%1$s has detected a physical robots.txt file in the root folder of your "
+"WordPress installation. We recommend removing this file as it could cause "
+"conflicts with WordPress' dynamically generated one. %2$s can import this "
+"file and delete it, or you can simply delete it."
+msgstr ""
+"%1$s észlelte, hogy egy fizikai robots.txt fájl található a WordPress "
+"telepítésed gyökérmappájában. Javasoljuk ennek eltávolítását, mivel "
+"ütközéseket okozhat a WordPress által dinamikusan generált fájllal. %2$s "
+"képes importálni és törölni ezt a fájlt, vagy manuálisan is törölheted."
+
+#. 1 - The plugin short name ("AIOSEO"), 2 - Same as previous.
+#: app/Common/Sitemap/Sitemap.php:246
+#, php-format
+msgid ""
+"%1$s has detected static sitemap files in the root folder of your WordPress "
+"installation.\n"
+"\t\t\t\tAs long as these files are present, %2$s is not able to dynamically "
+"generate your sitemap."
+msgstr ""
+"%1$s észlelte, hogy statikus webhelytérkép-fájlok találhatók a WordPress "
+"telepítésed gyökérmappájában.\n"
+"\t\t\t\tAmíg ezek a fájlok léteznek, %2$s nem tudja dinamikusan generálni a "
+"webhelytérképet."
+
+#. 1 - The plugin short name ("AIOSEO"), 2 - Same as previous.
+#: app/Common/Migration/Helpers.php:162
+#, php-format
+msgid ""
+"%1$s has detected that you have one or more custom fields with spaces in "
+"their name.\n"
+"\t\t\t\t\t\t\t\tIn order for %2$s to correctly parse these custom fields, "
+"their names cannot contain any spaces."
+msgstr ""
+"%1$s észlelte, hogy egy vagy több egyéni mező neve szóközt tartalmaz.\n"
+"\t\t\t\t\t\t\t\tAhhoz, hogy %2$s helyesen tudja értelmezni ezeket az egyéni "
+"mezőket, nevük nem tartalmazhat szóközt."
+
+#. The short plugin name ("AIOSEO").
+#: app/Common/Sitemap/Html/Widget.php:49
+#, php-format
+msgid "%1$s HTML sitemap widget."
+msgstr "%1$s HTML webhelytérkép widget."
+
+#. 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:44
+#, php-format
+msgid ""
+"%1$s is currently upgrading your database and migrating your SEO data in the "
+"background."
+msgstr ""
+"%1$s jelenleg frissíti az adatbázisodat és migrálja az SEO-adatokat a "
+"háttérben."
+
+#. 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:40
+#, php-format
+msgid "%1$s is importing your existing SEO data in the background."
+msgstr "%1$s a meglévő SEO-adatokat importálja a háttérben."
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:288
+#, php-format
+msgid "%1$s is updated to the latest version"
+msgstr "%1$s frissítve lett a legújabb verzióra"
+
+#. 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:397 app/Common/Utils/Tags.php:504
+#, php-format
+msgid "%1$s Link"
+msgstr "%1$s Hivatkozás"
+
+#. 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:404 app/Common/Utils/Tags.php:511
+#, php-format
+msgid "%1$s Link (Alt)"
+msgstr "%1$s Hivatkozás (Alternatív)"
+
+#. 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name ("AIOSEO"), 3 - Opening link tag, 4 - Closing link tag.
+#: app/Common/Migration/GeneralSettings.php:445
+#, php-format
+msgid ""
+"%1$s migrated all your title formats, some of which were blank. If you were "
+"purposely using blank formats in the previous version of %2$s and want "
+"WordPress to handle your titles, you can safely dismiss this message. For "
+"more information, check out our documentation on %3$sblank title formats%4$s."
+msgstr ""
+"%1$s migrálta az összes címsorformátumot, amelyek közül néhány üres volt. Ha "
+"korábban szándékosan használtál üres formátumokat a %2$s előző verziójában, "
+"és azt szeretnéd, hogy a WordPress kezelje a címsorokat, biztonságosan "
+"figyelmen kívül hagyhatod ezt az üzenetet. További információért tekintsd "
+"meg dokumentációnkat: %3$süres címsorformátumok%4$s."
+
+#. 1 - The estimated reading time.
+#: app/Common/Social/Twitter.php:260
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s perc"
+msgstr[1] "%1$s perc"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:492
+#, php-format
+msgid "%1$s Month"
+msgstr "%1$s Hónap"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:271
+#, php-format
+msgid "%1$s needs to be updated"
+msgstr "%1$s frissítésre szorul"
+
+#. 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:218
+#, php-format
+msgid "%1$s Price"
+msgstr "%1$s Ár"
+
+#. 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:1031
+#, php-format
+msgid "%1$s Score"
+msgstr "%1$s Pontszám"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:158
+#, php-format
+msgid "%1$s Settings"
+msgstr "%1$s Beállítások"
+
+#. 1 - The sitemap name, 2 - The current page.
+#: app/Common/Sitemap/Xsl.php:65
+#, php-format
+msgid "%1$s Sitemap %2$s"
+msgstr "%1$s Webhelytérkép %2$s"
+
+#. 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:225
+#, php-format
+msgid "%1$s SKU"
+msgstr "%1$s Cikkszám"
+
+#. 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:130 app/Common/Breadcrumbs/Tags.php:136
+#: app/Common/Utils/Tags.php:518 app/Common/Utils/Tags.php:580
+#, php-format
+msgid "%1$s Title"
+msgstr "%1$s Cím"
+
+#. 1 - The plugin name ("AIOSEO).
+#: app/Common/Admin/Notices/Migration.php:42
+#, php-format
+msgid "%1$s V3->V4 Migration In Progress"
+msgstr "%1$s V3->V4 migráció folyamatban"
+
+#. 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:498
+#, php-format
+msgid "%1$s Year"
+msgstr "%1$s Év"
+
+#. 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 - Closing HTML code tag.
+#: app/Common/Admin/Admin.php:351
+#, php-format
+msgid "%1$sAdd %2$srel=\"nofollow\"%3$s to link"
+msgstr "%1$sAdja hozzá a %2$srel=\"nofollow\"%3$s attribútumot a hivatkozáshoz"
+
+#. 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 - Closing HTML code tag.
+#: app/Common/Admin/Admin.php:353
+#, php-format
+msgid "%1$sAdd %2$srel=\"sponsored\"%3$s to link"
+msgstr ""
+"%1$sAdja hozzá a %2$srel=\"sponsored\"%3$s attribútumot a hivatkozáshoz"
+
+#. 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 - Closing HTML code tag.
+#: app/Common/Admin/Admin.php:355
+#, php-format
+msgid "%1$sAdd %2$srel=\"UGC\"%3$s to link"
+msgstr "%1$sAdja hozzá a %2$srel=\"UGC\"%3$s attribútumot a hivatkozáshoz"
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The short plugin name ("AIOSEO"), 4 - Opening HTML link tag, 5 - Closing HTML link tag.
+#: app/init/notices.php:44
+#, php-format
+msgid ""
+"%1$sNote:%2$s %3$s plugin is disabled on your site until you fix the issue. "
+"%4$sRead more for additional information.%5$s"
+msgstr ""
+"%1$sMegjegyzés:%2$s A(z) %3$s bővítmény le van tiltva az oldaladon, amíg nem "
+"oldod meg a problémát. %4$sTovábbi információért olvass tovább.%5$s"
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The short plugin name ("AIOSEO"), 4 - The current year, 5 - Opening HTML link tag, 6 - Closing HTML link tag.
+#: app/init/notices.php:171 app/Common/Admin/Notices/DeprecatedWordPress.php:86
+#, php-format
+msgid ""
+"%1$sNote:%2$s %3$s will be discontinuing support for WordPress versions "
+"older than version 5.3 by the end of %4$s. %5$sRead more for additional "
+"information.%6$s"
+msgstr ""
+"%1$sMegjegyzés:%2$s A(z) %3$s %4$s végére megszünteti az 5.3-nál régebbi "
+"WordPress-verziók támogatását. %5$sTovábbi információért olvass tovább.%6$s"
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The PHP version, 4 - The current year, 5 - The short plugin name ("AIOSEO"), 6 - Opening HTML link tag, 7 - Closing HTML link tag.
+#: app/init/notices.php:110
+#, php-format
+msgid ""
+"%1$sNote:%2$s Support for PHP %3$s will be discontinued in %4$s. After this, "
+"if no further action is taken, %5$s functionality will be disabled. %6$sRead "
+"more for additional information.%7$s"
+msgstr ""
+"%1$sMegjegyzés:%2$s A PHP %3$s támogatása %4$s évben megszűnik. Ha nem "
+"teszel további lépéseket, az %5$s funkciói le lesznek tiltva. %6$sTovábbi "
+"információért olvass tovább.%7$s"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Dashboard.php:63
+#, php-format
+msgid "%s Overview"
+msgstr "%s Áttekintés"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Dashboard.php:42
+#, php-format
+msgid "%s Setup"
+msgstr "%s Beállítás"
+
+#: app/Common/Tools/BadBotBlocker.php:223
+msgid "(Invalid IP)"
+msgstr "(Érvénytelen IP-cím)"
+
+#: app/Common/Breadcrumbs/Widget.php:51 app/Common/Sitemap/Html/Widget.php:57
+msgid "(legacy)"
+msgstr "(régi verzió)"
+
+#: app/Common/Api/Tools.php:238
+msgid ".htaccess file is empty."
+msgstr "Az .htaccess fájl üres."
+
+#: app/Common/Options/Options.php:555
+msgid "404 - Page Not Found"
+msgstr "404 - Az oldal nem található"
+
+#: app/Common/Breadcrumbs/Tags.php:172
+msgid "404 Error Format"
+msgstr "404 hiba formátum"
+
+#: app/Common/Utils/Tags.php:431
+msgid "A custom field from the current page/post."
+msgstr "Egy egyéni mező az aktuális oldalról/bejegyzésből."
+
+#: app/Common/Admin/Notices/Notices.php:521
+msgid ""
+"A Description tag is required in order to properly display your meta "
+"descriptions on your site."
+msgstr ""
+"A Description címke szükséges a meta leírások megfelelő megjelenítéséhez az "
+"oldaladon."
+
+#: app/Common/Utils/Tags.php:846
+msgid "A sample alt tag for your image"
+msgstr "Egy példa alt címke a képedhez"
+
+#: app/Common/Admin/Admin.php:248
+msgid "About Us"
+msgstr "Rólunk"
+
+#: app/Common/Tools/SystemStatus.php:369
+msgid "Active Plugins"
+msgstr "Aktív bővítmények"
+
+#: app/Common/Tools/SystemStatus.php:307
+msgid "Active Theme"
+msgstr "Aktív sablon"
+
+#: app/Common/Admin/Admin.php:344
+msgid "Add Link"
+msgstr "Hivatkozás hozzáadása"
+
+#: app/Common/Admin/Admin.php:1211 app/Common/Admin/SlugMonitor.php:123
+msgid "Add Redirect to improve SEO"
+msgid_plural "Add Redirects to improve SEO"
+msgstr[0] "Átirányítás hozzáadása a SEO javítása érdekében"
+msgstr[1] "Átirányítások hozzáadása a SEO javítása érdekében"
+
+#: app/Common/Sitemap/Xsl.php:36
+msgid "Additional Pages"
+msgstr "További oldalak"
+
+#. 1 - "WooCommerce".
+#: app/Lite/Admin/Notices/Notices.php:78
+#, php-format
+msgid "Advanced %1$s Support"
+msgstr "Fejlett %1$s támogatás"
+
+#: app/Common/Utils/Tags.php:392
+msgid "All categories that are assigned to the current post, comma-separated."
+msgstr ""
+"Az aktuális bejegyzéshez rendelt összes kategória, vesszővel elválasztva."
+
+#: app/Common/SearchStatistics/SearchStatistics.php:412
+#: app/Common/SearchStatistics/SearchStatistics.php:1021
+msgid "All Content Types"
+msgstr "Minden tartalomtípus"
+
+#. Name of the plugin
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "All in One SEO Csapat"
+
+#: app/Common/Views/sitemap/html/widget-options.php:130
+msgid "Alphabetical"
+msgstr "Ábécé sorrendben"
+
+#: app/Common/Api/Tools.php:247
+msgid ""
+"An error occurred while trying to write to the .htaccess file. Please try "
+"again later."
+msgstr ""
+"Hiba történt a .htaccess fájl írása közben. Kérjük, próbálja meg később."
+
+#: app/Common/Utils/Tags.php:975
+msgid "An example of content from your page/post."
+msgstr "Egy példa a bejegyzésed vagy oldalad tartalmára."
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:276
+#, php-format
+msgid ""
+"An update is available for %1$s. Upgrade to the latest version to receive "
+"all the latest features, bug fixes and security improvements."
+msgstr ""
+"Frissítés érhető el a(z) %1$s számára. Frissítsen a legújabb verzióra, hogy "
+"hozzáférjen az új funkciókhoz, hibajavításokhoz és biztonsági "
+"fejlesztésekhez."
+
+#: app/Common/Admin/Admin.php:243
+msgid "Analytics"
+msgstr "Analitika"
+
+#: app/Common/Admin/Admin.php:499
+msgid "Analyze this page"
+msgstr "Az oldal elemzése"
+
+#. 1 - The generated date, 2 - The generated time.
+#: app/Common/Views/sitemap/xsl/templates/header.php:60
+#, php-format
+msgid "and was generated on %1$s at %2$s"
+msgstr "és %1$s dátumon, %2$s időpontban generálódott"
+
+#: app/Common/Utils/Tags.php:328
+msgid "Archive Date"
+msgstr "Archívum dátuma"
+
+#: app/Common/Breadcrumbs/Tags.php:202
+msgid "Archive format"
+msgstr "Archívum formátuma"
+
+#: app/Common/Utils/Tags.php:368
+msgid "Archive Title"
+msgstr "Archívum címe"
+
+#: app/Common/Options/Options.php:553
+msgid "Archives for"
+msgstr "Archívum ehhez:"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:92
+#, php-format
+msgid "Are you enjoying %1$s?"
+msgstr "Élvezi a(z) %1$s használatát?"
+
+#: app/Common/Main/Updates.php:1146
+msgid "Article"
+msgstr "Cikk"
+
+#: app/Common/Views/sitemap/html/widget-options.php:142
+msgid "Ascending"
+msgstr "Növekvő sorrend"
+
+#: app/Common/Traits/Helpers/Wp.php:221
+msgid "Attachments"
+msgstr "Mellékletek"
+
+#: app/Common/Utils/Tags.php:339
+msgid "Author archive link (link as text)."
+msgstr "Szerző archívumának linkje (linkként szövegben)."
+
+#: app/Common/Utils/Tags.php:334
+msgid "Author archive link (name as text)."
+msgstr "Szerző archívumának linkje (névként szövegben)."
+
+#: app/Common/Admin/SiteHealth.php:323 app/Common/Admin/SiteHealth.php:389
+msgid "Author Archives"
+msgstr "Szerző archívumai"
+
+#: app/Common/Utils/Tags.php:343
+msgid "Author Biography"
+msgstr "Szerző életrajza"
+
+#: app/Common/Breadcrumbs/Tags.php:152
+msgid "Author Display Name"
+msgstr "Szerző megjelenített neve"
+
+#: app/Common/Breadcrumbs/Tags.php:157 app/Common/Utils/Tags.php:353
+msgid "Author First Name"
+msgstr "Szerző keresztneve"
+
+#: app/Common/Breadcrumbs/Tags.php:162 app/Common/Utils/Tags.php:358
+msgid "Author Last Name"
+msgstr "Szerző vezetékneve"
+
+#: app/Common/Utils/Tags.php:333
+msgid "Author Link"
+msgstr "Szerző linkje"
+
+#: app/Common/Utils/Tags.php:338
+msgid "Author Link (Alt)"
+msgstr "Szerző linkje (alternatív)"
+
+#: app/Common/Utils/Tags.php:348
+msgid "Author Name"
+msgstr "Szerző neve"
+
+#: app/Common/Admin/Admin.php:689
+msgid "Author SEO"
+msgstr "Szerző SEO"
+
+#: app/Common/Utils/Tags.php:363
+msgid "Author URL"
+msgstr "Szerző URL-je"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:206
+#, php-format
+msgid "Awesome! These are required for %1$s's Organization schema markup."
+msgstr "Nagyszerű! Ezek szükségesek a(z) %1$s szervezeti séma megjelöléséhez."
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:241
+#, php-format
+msgid "Awesome! These are required for %1$s's Person schema markup."
+msgstr "Nagyszerű! Ezek szükségesek a(z) %1$s személyes séma megjelöléséhez."
+
+#: app/Common/Views/sitemap/xsl/styles.php:103
+msgid "Back"
+msgstr "Vissza"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:37
+msgid "Back to Homepage"
+msgstr "Vissza a kezdőlapra"
+
+#: app/Common/Tools/SystemStatus.php:106
+msgid "Base Directory:"
+msgstr "Alapkönyvtár:"
+
+#: app/Common/Tools/SystemStatus.php:107
+msgid "Base URL:"
+msgstr "Alap URL:"
+
+#: app/Common/Migration/GeneralSettings.php:455
+msgid "Blank Title Formats Detected"
+msgstr "Üres címformátumok észlelve"
+
+#: app/Common/QueryArgs/CrawlCleanup.php:214
+msgid "Blocked"
+msgstr "Blokkolva"
+
+#. 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+#, php-format
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr ""
+"Blokkolt bot %1$s IP-címmel -- egyező referencia %2$s található a blokkolási "
+"listában."
+
+#. 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+#, php-format
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr ""
+"Blokkolt bot %1$s IP-címmel -- egyező user agent %2$s található a blokkolási "
+"listában."
+
+#: app/Common/Breadcrumbs/Tags.php:147
+msgid "Blog Page Title"
+msgstr "Blogoldal címe"
+
+#. 1 - The plugin short name ("AIOSEO"), 2 - Opening HTML link tag, 3 - Closing HTML link tag.
+#: app/Common/Breadcrumbs/Block.php:82
+#, php-format
+msgid ""
+"Breadcrumbs are currently disabled, so this block will be rendered empty. "
+"You can enable %1$s's breadcrumb functionality under %2$sGeneral Settings > "
+"Breadcrumbs%3$s."
+msgstr ""
+"A kenyérmorzsa navigáció jelenleg le van tiltva, így ez a blokk üresen fog "
+"megjelenni. A %1$s kenyérmorzsa funkcióját a %2$sÁltalános beállítások > "
+"Kenyérmorzsák%3$s alatt engedélyezheti."
+
+#: app/Common/Utils/Tags.php:319
+msgid "Caption for the current media file."
+msgstr "Az aktuális médiafájl felirata."
+
+#: app/Common/Utils/Tags.php:391
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: app/Common/Utils/Tags.php:385
+msgid "Category"
+msgstr "Kategória"
+
+#: app/Common/Views/sitemap/xsl/default.php:296
+msgid "Change Frequency"
+msgstr "Gyakoriság megváltoztatása"
+
+#: app/Common/Admin/Admin.php:512
+msgid "Check Google Cache"
+msgstr "Google Cache ellenőrzése"
+
+#: app/Common/Admin/Admin.php:507
+msgid "Check links to this URL"
+msgstr "Hivatkozások ellenőrzése erre az URL-re"
+
+#: app/Common/Views/sitemap/html/widget-options.php:36
+msgid "Compact Archives"
+msgstr "Kompakt archívumok"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:39
+msgid "Configure Sitemap"
+msgstr "Webhelytérkép beállítása"
+
+#: app/Common/Admin/Notices/Notices.php:596
+msgid "Conflicting Plugins Detected"
+msgstr "Ütköző bővítmények észlelve"
+
+#: app/Common/Tools/SystemStatus.php:166
+msgid "Constants"
+msgstr "Konstansok"
+
+#. 1 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:154
+#, php-format
+msgid ""
+"Copy the error message above and paste it in a message to the %1$s support "
+"team."
+msgstr ""
+"Másolja ki a fenti hibaüzenetet, és illessze be egy üzenetbe a %1$s "
+"ügyfélszolgálat számára."
+
+#. 1 - The marketing site domain ("aioseo.com").
+#: app/Lite/Admin/Connect.php:282
+#, php-format
+msgid ""
+"Could not install upgrade. Please download from %1$s and install manually."
+msgstr ""
+"A frissítés telepítése nem sikerült. Kérjük, töltse le a(z) %1$s weboldalról,"
+" és telepítse manuálisan."
+
+#: app/Common/Main/Updates.php:1171
+msgid "Course"
+msgstr "Tanfolyam"
+
+#: app/Common/Main/Updates.php:1657
+msgid "Crawl Cleanup changes you should know about"
+msgstr "Fontos változások a feltérképezési tisztításban"
+
+#: app/Common/Admin/Admin.php:537
+msgid "CSS Validator"
+msgstr "CSS Érvényesítő"
+
+#: app/Common/Utils/Tags.php:410
+msgid "Current Date"
+msgstr "Aktuális dátum"
+
+#: app/Common/Utils/Tags.php:415
+msgid "Current Day"
+msgstr "Aktuális nap"
+
+#: app/Common/Utils/Tags.php:420
+msgid "Current Month"
+msgstr "Aktuális hónap"
+
+#: app/Common/Utils/Tags.php:386
+msgid "Current or first category title."
+msgstr "Aktuális vagy elsődleges kategória címe."
+
+#: app/Common/Utils/Tags.php:405
+msgid "Current or first term link (link as text)."
+msgstr "Aktuális vagy elsődleges kifejezés linkje (linkként szövegben)."
+
+#: app/Common/Utils/Tags.php:398
+msgid "Current or first term link (name as text)."
+msgstr "Aktuális vagy elsődleges kifejezés linkje (névként szövegben)."
+
+#: app/Common/Utils/Tags.php:425
+msgid "Current Year"
+msgstr "Aktuális év"
+
+#: app/Common/Utils/Tags.php:430
+msgid "Custom Field"
+msgstr "Egyéni mező"
+
+#: app/Common/Migration/Helpers.php:159
+msgid "Custom field names with spaces detected"
+msgstr "Helyeket tartalmazó egyéni mezőnevek észlelve"
+
+#: app/Common/Admin/Admin.php:189
+msgid "Dashboard"
+msgstr "Irányítópult"
+
+#. %1$s is the data size, %2$s is the index size, %3$s is the engine type.
+#: app/Common/Tools/SystemStatus.php:137
+#, php-format
+msgid "Data: %1$.2f MB / Index: %2$.2f MB / Engine: %3$s / Collation: %4$s"
+msgstr ""
+"Adat: %1$.2f MB / Index: %2$.2f MB / Motor: %3$s / Karakterkészlet: %4$s"
+
+#: app/Common/Tools/SystemStatus.php:147
+msgid "Database"
+msgstr "Adatbázis"
+
+#: app/Common/Tools/SystemStatus.php:249
+msgid "Database Powered By"
+msgstr "Adatbázis motorja"
+
+#: app/Common/Tools/SystemStatus.php:150
+msgid "Database Size"
+msgstr "Adatbázis mérete"
+
+#: app/Common/Tools/SystemStatus.php:253
+msgid "Database Version"
+msgstr "Adatbázis verziója"
+
+#: app/Common/Admin/SiteHealth.php:324 app/Common/Admin/SiteHealth.php:390
+msgid "Date Archives"
+msgstr "Dátum archívumok"
+
+#: app/Common/Breadcrumbs/Tags.php:187
+msgid "Day"
+msgstr "Nap"
+
+#: app/Common/Api/Plugins.php:130 app/Common/Api/Sitemaps.php:83
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr ""
+"A deaktiválás sikertelen. Kérjük, ellenőrizze a jogosultságokat, majd "
+"próbálja újra."
+
+#: app/Common/Tools/SystemStatus.php:79
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: app/Common/Options/Options.php:544
+msgid "default"
+msgstr "alapértelmezett"
+
+#: app/Common/Tools/RobotsTxt.php:389
+msgid "Delete"
+msgstr "Törlés"
+
+#: app/Common/Sitemap/Sitemap.php:253
+msgid "Delete Static Files"
+msgstr "Statikus fájlok törlése"
+
+#: app/Common/Views/sitemap/html/widget-options.php:143
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: app/Common/Utils/Tags.php:436
+msgid "Description"
+msgstr "Leírás"
+
+#: app/Common/Utils/Tags.php:324
+msgid "Description for the current media file."
+msgstr "Az aktuális médiafájl leírása."
+
+#. 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:48
+#, php-format
+msgid ""
+"Didn't expect to see this? Make sure your sitemap is enabled and your "
+"content is set to be indexed. %1$sLearn More →%2$s"
+msgstr ""
+"Nem számítottál erre? Győződj meg róla, hogy a webhelytérkép engedélyezve "
+"van, és a tartalmad indexelhető. %1$sTovábbi információ →%2$s"
+
+#: app/Common/Tools/SystemStatus.php:174 app/Common/Tools/SystemStatus.php:178
+#: app/Common/Tools/SystemStatus.php:182 app/Common/Tools/SystemStatus.php:186
+#: app/Common/Tools/SystemStatus.php:190 app/Common/Tools/SystemStatus.php:194
+#: app/Common/Tools/SystemStatus.php:198 app/Common/Tools/SystemStatus.php:202
+#: app/Common/Tools/SystemStatus.php:206
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+#: app/Common/Breadcrumbs/Widget.php:41
+msgid "Display the current page breadcrumb."
+msgstr "Az aktuális oldal kenyérmorzsáinak megjelenítése."
+
+#. This is an action link users can click to open our general documentation page.
+#: app/Lite/Main/Filters.php:60
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#. 1 - All in One SEO.
+#: app/Common/Migration/GeneralSettings.php:358
+#, php-format
+msgid ""
+"Due to a bug in the previous version of %1$s, your homepage title and "
+"description may have changed. Please take a minute to review your homepage "
+"settings to verify that they are correct."
+msgstr ""
+"A %1$s korábbi verziójában lévő hiba miatt előfordulhat, hogy a kezdőlap "
+"címe és leírása megváltozott. Kérlek, ellenőrizd a kezdőlap beállításait, "
+"hogy minden megfelelő legyen."
+
+#: app/Common/Migration/SocialMeta.php:90
+msgid ""
+"Due to some changes in how our Open Graph integration works, your Facebook "
+"Titles and Descriptions may have changed. You were using the following "
+"options that have been removed:"
+msgstr ""
+"A Facebook Open Graph integráció működésének változásai miatt előfordulhat, "
+"hogy a Facebook címek és leírások módosultak. Az alábbi eltávolított "
+"opciókat használtad:"
+
+#: app/Common/Sitemap/Output.php:31
+msgid "dynamically"
+msgstr "dinamikusan"
+
+#. 1 - A noun for something that's being edited ("Post", "Page", "Article", "Product", etc.).
+#: app/Common/Standalone/SeoPreview.php:152
+#, php-format
+msgid "Edit %1$s"
+msgstr "%1$s szerkesztése"
+
+#: app/Common/Admin/Admin.php:589
+msgid "Edit SEO"
+msgstr "SEO szerkesztése"
+
+#: app/Common/Standalone/SeoPreview.php:167
+msgid "Edit User"
+msgstr "Felhasználó szerkesztése"
+
+#: app/Common/Views/sitemap/html/widget-options.php:158
+msgid "Enter a comma-separated list of post IDs."
+msgstr "Írj be egy vesszővel elválasztott bejegyzésazonosító-listát."
+
+#: app/Common/Views/sitemap/html/widget-options.php:172
+msgid "Enter a comma-separated list of term IDs."
+msgstr "Írj be egy vesszővel elválasztott kifejezésazonosító-listát."
+
+#: app/Common/Social/Twitter.php:258
+msgid "Est. reading time"
+msgstr "Becsült olvasási idő"
+
+#: app/Common/Utils/Tags.php:995
+msgid "Example search string"
+msgstr "Példa keresési kifejezés"
+
+#: app/Common/Views/sitemap/html/widget-options.php:149
+msgid "Exclude Posts / Pages"
+msgstr "Bejegyzések / oldalak kizárása"
+
+#: app/Common/Views/sitemap/html/widget-options.php:163
+msgid "Exclude Terms"
+msgstr "Kifejezések kizárása"
+
+#: app/Common/Admin/Admin.php:522
+msgid "Facebook Debugger"
+msgstr "Facebook Debugger"
+
+#: app/Common/Admin/SiteHealth.php:291
+msgid ""
+"Fantastic! By updating to the latest version, you have access to all the "
+"latest features, bug fixes and security improvements."
+msgstr ""
+"Nagyszerű! A legújabb verzióra frissítve hozzáférhetsz minden új funkcióhoz, "
+"hibajavításhoz és biztonsági fejlesztéshez."
+
+#: app/Common/Main/Updates.php:1331
+msgid "FAQ Page"
+msgstr "GYIK oldal"
+
+#: app/Common/Admin/Admin.php:239
+msgid "Feature Manager"
+msgstr "Funkciókezelő"
+
+#: app/Common/Utils/Tags.php:441
+msgid "Featured Image"
+msgstr "Kiemelt kép"
+
+#. Separator between blog name and feed type in feed links.
+#: app/Common/Rss.php:288
+msgctxt "feed link"
+msgid "-"
+msgstr "-"
+
+#: app/Common/Main/Updates.php:1567
+#: app/Common/Migration/GeneralSettings.php:734
+#: app/Common/Admin/Notices/Notices.php:475
+#: app/Common/Admin/Notices/Notices.php:524
+#: app/Common/Admin/Notices/Notices.php:600
+#: app/Common/ImportExport/RankMath/TitleMeta.php:434
+msgid "Fix Now"
+msgstr "Javítás most"
+
+#: app/Common/Tools/SystemStatus.php:94
+msgid "Front Page Info"
+msgstr "Kezdőlap információ"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:209
+msgid "General"
+msgstr "Általános"
+
+#: app/Common/Admin/Admin.php:195
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "Generated by"
+msgstr "Generálta"
+
+#: app/Common/Admin/Notices/Review.php:102
+msgid "Give feedback"
+msgstr "Adj visszajelzést"
+
+#: app/Common/Admin/Admin.php:935
+msgid "Give us a 5-star rating!"
+msgstr "Adj nekünk 5 csillagos értékelést!"
+
+#: app/Common/Admin/SiteHealth.php:279
+msgid "Go to Plugins"
+msgstr "Ugrás a Bővítményekhez"
+
+#: app/Common/Admin/SiteHealth.php:196 app/Common/Admin/SiteHealth.php:231
+msgid "Go to Schema Settings"
+msgstr "Ugrás a séma beállításokhoz"
+
+#: app/Common/Admin/SiteHealth.php:153
+msgid "Go to Settings > General"
+msgstr "Ugrás a Beállítások > Általános menüpontra"
+
+#: app/Common/Admin/SiteHealth.php:117
+msgid "Go to Settings > Reading"
+msgstr "Ugrás a Beállítások > Olvasás menüpontra"
+
+#: app/Common/Admin/Admin.php:542
+msgid "Google Page Speed Test"
+msgstr "Google Oldal Sebesség Teszt"
+
+#: app/Common/Admin/Admin.php:517
+msgid "Google Rich Results Test"
+msgstr "Google Gazdag Találatok Teszt"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:163
+#, php-format
+msgid ""
+"Great! These are required for %1$s's schema markup and are often used as "
+"fallback values for various other features."
+msgstr ""
+"Remek! Ezek szükségesek a %1$s sémajelöléséhez, és gyakran használt "
+"tartalékértékek más funkciókhoz."
+
+#: app/init/notices.php:224
+msgid "Heads up!"
+msgstr "Figyelem!"
+
+#. 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:154
+#, php-format
+msgid ""
+"Hey, we noticed you have been using %1$s for some time - that’s awesome! "
+"Could you please do us a BIG favor and give it a 5-star rating on WordPress "
+"to help us spread the word and boost our motivation?"
+msgstr ""
+"Hé, észrevettük, hogy egy ideje használod a %1$s bővítményt – ez nagyszerű! "
+"Megtennéd nekünk azt a hatalmas szívességet, hogy 5 csillagos értékelést "
+"adsz rá a WordPressen? Ez segítene nekünk a népszerűsítésben és motivációnk "
+"növelésében!"
+
+#: app/Common/Tools/SystemStatus.php:99
+msgid "Hidden"
+msgstr "Rejtett"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:30
+msgid "High"
+msgstr "Magas"
+
+#. This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:517
+#: app/Common/Options/Options.php:552 app/Common/Schema/Breadcrumb.php:315
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+#, fuzzy
+msgid "Home"
+msgstr "Főoldal"
+
+#: app/Common/Tools/SystemStatus.php:70
+msgid "Home URL"
+msgstr "Főoldal URL"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:191
+msgid "How-To"
+msgstr "Útmutató"
+
+#: app/Common/Admin/Admin.php:532
+msgid "HTML Validator"
+msgstr "HTML Érvényesítő"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: app/Common/Admin/Notices/Review.php:108
+#: app/Common/Admin/Notices/Review.php:161
+msgid "I already did"
+msgstr "Már megtettem"
+
+#: app/Common/Admin/DeactivationSurvey.php:296
+msgid "I couldn't get the plugin to work"
+msgstr "Nem tudtam működésre bírni a bővítményt"
+
+#: app/Common/Admin/DeactivationSurvey.php:289
+msgid "I no longer need the plugin"
+msgstr "Már nincs szükségem a bővítményre"
+
+#: app/Common/Admin/DeactivationSurvey.php:292
+msgid "I'm switching to a different plugin"
+msgstr "Egy másik bővítményre váltok"
+
+#: app/Common/Views/sitemap/html/widget-options.php:133
+msgid "ID"
+msgstr "Azonosító"
+
+#. 1 - The plugin name.
+#: app/Common/Admin/DeactivationSurvey.php:317
+#, php-format
+msgid "If you have a moment, please share why you are deactivating %1$s:"
+msgstr ""
+"Ha van egy pillanatod, kérlek oszd meg velünk, miért inaktiválod a %1$s "
+"bővítményt:"
+
+#: app/Common/Utils/Tags.php:313
+msgid "Image Alt Tag"
+msgstr "Kép Alt Tag"
+
+#: app/Common/Views/sitemap/xsl/default.php:282
+msgid "Images"
+msgstr "Képek"
+
+#: app/Common/Tools/RobotsTxt.php:387
+msgid "Import and Delete"
+msgstr "Importálás és törlés"
+
+#: app/Common/Tools/SystemStatus.php:401
+msgid "Inactive Plugins"
+msgstr "Inaktív bővítmények"
+
+#: app/Common/Admin/Admin.php:342
+msgid "Insert/edit link"
+msgstr "Hivatkozás beszúrása/szerkesztése"
+
+#. 1 - A plugin name (e.g. "MonsterInsights", "Broken Link Checker", etc.).
+#: app/Common/Api/Wizard.php:450 app/Common/Api/Wizard.php:463
+#, php-format
+msgid "Install %1$s"
+msgstr "%1$s telepítése"
+
+#: app/Common/Api/Plugins.php:24
+msgid "Installation failed. Please check permissions and try again."
+msgstr ""
+"A telepítés sikertelen. Kérlek, ellenőrizd a jogosultságokat, és próbáld "
+"újra."
+
+#: app/Common/Admin/Notices/Notices.php:516
+msgid "Invalid Description Format"
+msgstr "Érvénytelen leírás formátum"
+
+#: app/Common/Migration/GeneralSettings.php:726
+#: app/Common/ImportExport/RankMath/TitleMeta.php:425
+msgid "Invalid Phone Number for Knowledge Graph"
+msgstr "Érvénytelen telefonszám a Tudásgráfhoz"
+
+#: app/Common/Admin/DeactivationSurvey.php:299
+msgid "It's a temporary deactivation"
+msgstr "Ez csak egy ideiglenes inaktiválás"
+
+#: app/Common/Breadcrumbs/Tags.php:124
+msgid "Label"
+msgstr "Címke"
+
+#: app/Common/Views/sitemap/html/widget-options.php:127
+#: app/Common/Views/sitemap/xsl/default.php:112
+#: app/Common/Views/sitemap/xsl/default.php:322
+msgid "Last Updated"
+msgstr "Utoljára frissítve"
+
+#: app/Common/Tools/SystemStatus.php:43
+msgid "Latest version:"
+msgstr "Legújabb verzió:"
+
+#: app/Common/Main/Updates.php:1661
+#: app/Common/Migration/GeneralSettings.php:459
+#: app/Common/Migration/SocialMeta.php:110
+msgid "Learn More"
+msgstr "Tudj meg többet"
+
+#: app/Common/Admin/Admin.php:211
+msgid "Link Assistant"
+msgstr "Link Asszisztens"
+
+#: app/Common/Admin/Admin.php:349
+msgid "Link has been inserted."
+msgstr "A hivatkozás beillesztve."
+
+#: app/Common/Admin/Admin.php:348
+msgid "Link selected."
+msgstr "Hivatkozás kiválasztva."
+
+#: app/Common/Admin/Admin.php:552
+msgid "LinkedIn Post Inspector"
+msgstr "LinkedIn Bejegyzés Ellenőrző"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:197
+msgid "List"
+msgstr "Lista"
+
+#: app/Common/Admin/Admin.php:220
+msgid "Local SEO"
+msgstr "Helyi SEO"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:28
+msgid "Low"
+msgstr "Alacsony"
+
+#: app/Common/Utils/Tags.php:318
+msgid "Media Caption"
+msgstr "Média felirat"
+
+#: app/Common/Utils/Tags.php:323
+msgid "Media Description"
+msgstr "Média leírás"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:29
+msgid "Medium"
+msgstr "Közepes"
+
+#: app/Common/Tools/SystemStatus.php:337
+msgid "Must-Use Plugins"
+msgstr "Kötelező bővítmények"
+
+#: app/Common/Tools/SystemStatus.php:360 app/Common/Tools/SystemStatus.php:392
+msgid "needs update"
+msgstr "frissítés szükséges"
+
+#: app/Common/Admin/Admin.php:234
+msgid "Network Tools"
+msgstr "Hálózati eszközök"
+
+#: app/Common/Standalone/SeoPreview.php:271
+msgid "NEW"
+msgstr "ÚJ"
+
+#: app/Common/Tools/SystemStatus.php:258
+msgid "Not Set"
+msgstr "Nincs beállítva"
+
+#: app/Common/Tools/SystemStatus.php:174 app/Common/Tools/SystemStatus.php:178
+#: app/Common/Tools/SystemStatus.php:182 app/Common/Tools/SystemStatus.php:186
+#: app/Common/Tools/SystemStatus.php:190 app/Common/Tools/SystemStatus.php:194
+#: app/Common/Tools/SystemStatus.php:198 app/Common/Tools/SystemStatus.php:202
+#: app/Common/Tools/SystemStatus.php:206
+msgid "Not set"
+msgstr "Nincs beállítva"
+
+#: app/Common/Admin/Admin.php:442 app/Common/Admin/Admin.php:704
+msgid "Notifications"
+msgstr "Értesítések"
+
+#: app/Common/Admin/Notices/Review.php:106
+#: app/Common/Admin/Notices/Review.php:159
+msgid "Ok, you deserve it"
+msgstr "Rendben, megérdemled"
+
+#: app/Common/Views/admin/settings-page.php:134
+msgid "Ooops! It Appears JavaScript Didn’t Load"
+msgstr "Hoppá! Úgy tűnik, a JavaScript nem töltődött be"
+
+#: app/Common/Tools/SystemStatus.php:237
+msgid "Operating System"
+msgstr "Operációs rendszer"
+
+#: app/Common/Admin/DeactivationSurvey.php:302
+msgid "Other"
+msgstr "Egyéb"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:292
+msgid "Page"
+msgstr "Oldal"
+
+#: app/Common/Breadcrumbs/Tags.php:197 app/Common/Utils/Tags.php:446
+#, fuzzy
+#| msgid "Phone Number"
+msgid "Page Number"
+msgstr "Oldalszám"
+
+#: app/Common/Admin/SiteHealth.php:319 app/Common/Admin/SiteHealth.php:385
+msgid "Paginated Content"
+msgstr "Lapozható tartalom"
+
+#: app/Common/Utils/Tags.php:568
+msgid "Parent Term"
+msgstr "Szülő kifejezés"
+
+#: app/Common/Utils/Tags.php:451
+msgid "Parent Title"
+msgstr "Szülő cím"
+
+#: app/Common/Tools/SystemStatus.php:104
+msgid "Path:"
+msgstr "Útvonal:"
+
+#: app/Common/Breadcrumbs/Tags.php:119 app/Common/Utils/Tags.php:456
+msgid "Permalink"
+msgstr "Permalink"
+
+#: app/Common/Tools/SystemStatus.php:78
+msgid "Permalink Structure"
+msgstr "Permalink struktúra"
+
+#: app/Common/Tools/SystemStatus.php:281
+msgid "PHP Exif Support"
+msgstr "PHP Exif támogatás"
+
+#: app/Common/Tools/SystemStatus.php:378
+msgid "Physical Robots.txt File Detected"
+msgstr "Fizikai Robots.txt fájl észlelve"
+
+#: app/Common/Admin/Admin.php:527
+msgid "Pinterest Rich Pins Validator"
+msgstr "Pinterest Gazdag Pins Érvényesítő"
+
+#: app/Common/Api/Analyze.php:133
+msgid "Please enter a valid headline."
+msgstr "Kérjük, adjon meg egy érvényes címet."
+
+#: app/Lite/Admin/Connect.php:217
+msgid "Please enter your license key to connect."
+msgstr "Kérjük, adja meg a licenckulcsát a csatlakozáshoz."
+
+#: app/Common/Admin/Notices/ConflictingPlugins.php:71
+#, php-format
+msgid ""
+"Please keep only one %1$s plugin active, otherwise, you might lose your "
+"rankings and traffic. %2$sClick here to Deactivate.%3$s"
+msgstr ""
+"Kérjük, csak egy %1$s bővítményt tartson aktívan, különben elveszítheti a "
+"ranglistáit és forgalmát. %2$sKattintson ide a deaktiváláshoz.%3$s"
+
+#: app/Common/Admin/Admin.php:952
+#, php-format
+msgid "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+msgstr ""
+"Kérjük, értékelje a %1$s %2$s-t a %3$s oldalon, hogy segítsen elterjeszteni "
+"a hírt. Köszönjük!"
+
+#: app/Common/Admin/DeactivationSurvey.php:151
+msgid "Please select an option"
+msgstr "Kérjük, válasszon egy lehetőséget"
+
+#: app/Common/Admin/DeactivationSurvey.php:303
+msgid "Please share the reason"
+msgstr "Kérjük, ossza meg az okot"
+
+#: app/Common/Admin/DeactivationSurvey.php:293
+msgid "Please share which plugin"
+msgstr "Kérjük, ossza meg, hogy melyik bővítményről van szó"
+
+#: app/Lite/Admin/Connect.php:286
+msgid "Plugin installed & activated."
+msgstr "Bővítmény telepítve és aktiválva."
+
+#: app/AIOSEO.php:155
+msgid ""
+"Plugin is missing required dependencies. Please contact support for more "
+"information."
+msgstr ""
+"A bővítményhez szükséges függőségek hiányoznak. Kérjük, lépjen kapcsolatba a "
+"támogatással további információkért."
+
+#: app/Common/Api/Plugins.php:77
+msgid "Plugin update failed. Please check permissions and try again."
+msgstr ""
+"A bővítmény frissítése nem sikerült. Kérjük, ellenőrizze a jogosultságokat "
+"és próbálja újra."
+
+#: app/Common/Sitemap/Xsl.php:39
+msgid "Post Archive"
+msgstr "Bejegyzés archívum"
+
+#: app/Common/Utils/Tags.php:512
+msgid "Post link (link as anchor text)."
+msgstr "Bejegyzés link (link szövegként)."
+
+#: app/Common/Utils/Tags.php:505
+msgid "Post link (name as anchor text)."
+msgstr "Bejegyzés link (név szövegként)."
+
+#: app/Common/Breadcrumbs/Tags.php:207
+msgid "Post Type Name"
+msgstr "Bejegyzéstípus neve"
+
+#: app/Common/Views/sitemap/html/widget-options.php:74
+msgid "Post Types"
+msgstr "Bejegyzéstípusok"
+
+#: app/Common/Views/sitemap/xsl/default.php:309
+msgid "Priority"
+msgstr "Prioritás"
+
+#: app/Lite/Admin/Connect.php:229
+msgid "Pro version is already installed."
+msgstr "A Pro verzió már telepítve van."
+
+#: app/Common/Main/Updates.php:1188
+msgid "Product"
+msgstr "Termék"
+
+#: app/Common/Views/sitemap/xsl/default.php:200
+msgid "Publication Date"
+msgstr "Kiadás dátuma"
+
+#: app/Common/Views/sitemap/html/widget-options.php:124
+msgid "Publish Date"
+msgstr "Közzététel dátuma"
+
+#: app/Common/Schema/Graphs/Article/NewsArticle.php:34
+#: app/Common/Schema/Graphs/Article/NewsArticle.php:36
+#, php-format
+msgid "Published on %1$s."
+msgstr "Közzétéve: %1$s."
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:203
+msgid "Question"
+msgstr "Kérdés"
+
+#: app/Common/Admin/DeactivationSurvey.php:311
+msgid "Quick Feedback"
+msgstr "Gyors visszajelzés"
+
+#: app/Common/Main/Updates.php:1246
+msgid "Recipe"
+msgstr "Recept"
+
+#: app/Common/Admin/Admin.php:673
+msgid "Redirection Manager"
+msgstr "Átirányítások kezelője"
+
+#: app/Common/Admin/Admin.php:216
+msgid "Redirects"
+msgstr "Átirányítások"
+
+#: app/Common/Api/Wizard.php:467 app/Common/Migration/GeneralSettings.php:736
+#: app/Common/Migration/Helpers.php:169
+#: app/Common/Admin/Notices/Notices.php:477
+#: app/Common/Admin/Notices/Notices.php:526
+#: app/Common/Admin/Notices/Notices.php:602
+#: app/Common/ImportExport/RankMath/TitleMeta.php:436
+msgid "Remind Me Later"
+msgstr "Később emlékeztess"
+
+#: app/Common/Views/admin/settings-page.php:162
+msgid "Resolve This Issue"
+msgstr "Oldja meg ezt a problémát"
+
+#: app/Common/Migration/GeneralSettings.php:363
+msgid "Review Now"
+msgstr "Értékelje most"
+
+#: app/Common/Migration/SocialMeta.php:106
+msgid "Review Your Facebook Open Graph Titles and Descriptions"
+msgstr "Ellenőrizze a Facebook Open Graph címeket és leírásokat"
+
+#: app/Common/Migration/GeneralSettings.php:355
+msgid "Review Your Homepage Title & Description"
+msgstr "Ellenőrizze a kezdőlap címét és leírását"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Description"
+msgstr "Futtass rövidkódokat a leírásban"
+
+#: app/Common/Migration/SocialMeta.php:83
+msgid "Run Shortcodes in Title"
+msgstr "Futtass rövidkódokat a címben"
+
+#: app/Common/Utils/Tags.php:870
+msgid "Sample Archive Title"
+msgstr "Minta Archívum Cím"
+
+#: app/Common/Utils/Tags.php:874
+msgid "Sample author biography"
+msgstr "Minta szerző életrajza"
+
+#: app/Common/Utils/Tags.php:898
+msgid "Sample caption for media."
+msgstr "Minta felirat a médiához."
+
+#: app/Common/Utils/Tags.php:905
+msgid "Sample Category 1, Sample Category 2"
+msgstr "Minta Kategória 1, Minta Kategória 2"
+
+#: app/Common/Breadcrumbs/Frontend.php:148
+msgid "Sample Crumb"
+msgstr "Minta Morzsa"
+
+#: app/Common/Utils/Tags.php:932
+msgid "Sample Custom Field Value"
+msgstr "Minta egyedi mező érték"
+
+#: app/Common/Utils/Tags.php:902
+msgid "Sample description for media."
+msgstr "Minta leírás a médiához."
+
+#: app/Common/Utils/Tags.php:963 app/Common/Utils/Tags.php:966
+msgid "Sample excerpt from a page/post."
+msgstr "Minta kivonat egy oldalról/bejegyzésről."
+
+#: app/Common/Utils/Tags.php:935 app/Common/Utils/Tags.php:942
+msgid "Sample featured image"
+msgstr "Minta kiemelt kép"
+
+#: app/Common/Utils/Tags.php:947
+msgid "Sample Parent"
+msgstr "Minta Szülő"
+
+#: app/Common/Utils/Tags.php:1012
+msgid "Sample Parent Term Name"
+msgstr "Minta Szülő Kifejezés Név"
+
+#: app/Common/Utils/Tags.php:987
+msgid "Sample Post"
+msgstr "Minta Bejegyzés"
+
+#: app/Common/Utils/Tags.php:1016
+msgid "Sample taxonomy description"
+msgstr "Minta taxonómiai leírás"
+
+#: app/Common/Utils/Tags.php:1006
+msgid "Sample Taxonomy Name Value"
+msgstr "Minta taxonómia név érték"
+
+#: app/Common/Utils/Tags.php:1021
+msgid "Sample Taxonomy Title"
+msgstr "Minta taxonómia cím"
+
+#: app/Common/Admin/Admin.php:199
+msgid "Search Appearance"
+msgstr "Keresési megjelenés"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Search Engine Visibility"
+msgstr "Keresőmotor láthatóság"
+
+#: app/Common/Admin/Notices/Notices.php:467
+msgid "Search Engines Blocked"
+msgstr "Keresőmotorok blokkolva"
+
+#: app/Common/Admin/SiteHealth.php:325 app/Common/Admin/SiteHealth.php:391
+msgid "Search Page"
+msgstr "Keresési oldal"
+
+#: app/Common/Breadcrumbs/Tags.php:167
+msgid "Search result format"
+msgstr "Keresési eredmény formátum"
+
+#: app/Common/Options/Options.php:554
+msgid "Search Results for"
+msgstr "Keresési eredmények"
+
+#: app/Common/Admin/Admin.php:228 app/Common/Admin/Admin.php:229
+msgid "Search Statistics"
+msgstr "Keresési statisztikák"
+
+#: app/Common/Breadcrumbs/Tags.php:192
+msgid "Search String"
+msgstr "Keresési kifejezés"
+
+#: app/Common/Utils/Tags.php:523
+msgid "Search Term"
+msgstr "Keresési kifejezés"
+
+#: app/Common/Admin/Admin.php:434 app/Common/Admin/SiteHealth.php:87
+msgid "SEO"
+msgstr "SEO"
+
+#: app/Common/Admin/Admin.php:224
+msgid "SEO Analysis"
+msgstr "SEO elemzés"
+
+#: app/Common/Tools/SystemStatus.php:234
+msgid "Server Info"
+msgstr "Szerver információk"
+
+#: app/Common/Views/sitemap/html/widget-options.php:52
+msgid "Show Labels"
+msgstr "Címkék megjelenítése"
+
+#: app/Common/Views/sitemap/html/widget-options.php:68
+msgid "Show Publication Date"
+msgstr "Közzététel dátumának megjelenítése"
+
+#: app/Common/Views/sitemap/xsl/partials/pagination.php:42
+#, php-format
+msgid "Showing %1$s of %2$s"
+msgstr "Mutatva: %1$s a %2$s-ból/ből"
+
+#: app/Common/Utils/Tags.php:533
+msgid "Site Description"
+msgstr "Weboldal leírása"
+
+#: app/Common/Tools/SystemStatus.php:58
+msgid "Site Language"
+msgstr "Weboldal nyelve"
+
+#: app/Common/Utils/Tags.php:373 app/Common/Utils/Tags.php:539
+msgid "Site Link"
+msgstr "Weboldal link"
+
+#: app/Common/Utils/Tags.php:545
+msgid "Site Link (Alt)"
+msgstr "Weboldal link (Alt)"
+
+#: app/Common/Utils/Tags.php:374 app/Common/Utils/Tags.php:546
+msgid "Site link (link as text)."
+msgstr "Weboldal link (link szövegként)."
+
+#: app/Common/Utils/Tags.php:540
+msgid "Site link (name as text)."
+msgstr "Weboldal link (név szövegként)."
+
+#: app/Common/Tools/SystemStatus.php:54 app/Common/Utils/Tags.php:379
+#: app/Common/Utils/Tags.php:551
+msgid "Site Title"
+msgstr "Oldal cím"
+
+#: app/Common/Tools/SystemStatus.php:74
+msgid "Site URL"
+msgstr "Oldal URL"
+
+#: app/Common/Sitemap/Html/Sitemap.php:129
+msgid "Sitemap"
+msgstr "Webhelytérkép"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:49
+msgid "sitemap"
+msgstr "webhelytérkép"
+
+#: app/Common/Views/sitemap/xsl/default.php:41
+#: app/Common/Views/sitemap/xsl/default.php:91
+#: app/Common/Views/sitemap/xsl/default.php:260
+#: app/Common/Views/sitemap/xsl/default.php:448
+msgid "Sitemap Index"
+msgstr "Webhelytérkép index"
+
+#: app/Common/Admin/Admin.php:207
+msgid "Sitemaps"
+msgstr "Webhelytérképek"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:52
+msgid "sitemaps"
+msgstr "oldaltérképek"
+
+#: app/Common/Admin/DeactivationSurvey.php:356
+#, php-format
+msgid "Skip %1$s Deactivate"
+msgstr "Ugrás %1$s deaktiválása"
+
+#: app/Common/Admin/Admin.php:203
+msgid "Social Networks"
+msgstr "Közösségi hálózatok"
+
+#: app/Common/Main/Updates.php:1289
+msgid "Software"
+msgstr "Szoftver"
+
+#: app/Common/Views/sitemap/html/widget-options.php:139
+msgid "Sort Direction"
+msgstr "Rendezés iránya"
+
+#: app/Common/Views/sitemap/html/widget-options.php:120
+msgid "Sort Order"
+msgstr "Rendezési sorrend"
+
+#: app/Common/Tools/SystemStatus.php:257
+msgid "SQL Mode"
+msgstr "SQL mód"
+
+#: app/Common/Sitemap/Sitemap.php:243
+msgid "Static sitemap files detected"
+msgstr "Statikus webhelytérkép fájlok észlelve"
+
+#: app/Common/Sitemap/Output.php:31
+msgid "statically"
+msgstr "statikusan"
+
+#: app/Common/Admin/DeactivationSurvey.php:347
+#, php-format
+msgid "Submit %1$s Deactivate"
+msgstr "Küldés %1$s deaktiválása"
+
+#: app/Lite/Main/Filters.php:30
+msgid "Suggest a Feature"
+msgstr "Javasolj egy funkciót"
+
+#: app/Lite/Main/Filters.php:55
+msgid "Support"
+msgstr "Támogatás"
+
+#: app/Common/Utils/Tags.php:557
+msgid "Tagline"
+msgstr "Szlogen"
+
+#: app/Common/Views/sitemap/html/widget-options.php:97
+msgid "Taxonomies"
+msgstr "Taxonómiák"
+
+#: app/Common/Utils/Tags.php:562
+msgid "Taxonomy Name"
+msgstr "Taxonómia név"
+
+#: app/Common/Admin/Dashboard.php:181
+msgid "Temporarily unable to load feed."
+msgstr "Átmenetileg nem tudjuk betölteni a hírcsatornát."
+
+#: app/Common/Admin/Notices/Review.php:104
+msgid ""
+"That's awesome! Could you please do us a BIG favor and give it a 5-star "
+"rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+"Ez nagyszerű! Kérlek, tedd meg nekünk a NAGY szívességet, és adj neki egy 5 "
+"csillagos értékelést a WordPress-en, hogy segíts nekünk elterjeszteni a hírt "
+"és növelni a motivációnkat!"
+
+#: app/Common/Breadcrumbs/Tags.php:234
+#, php-format
+msgid "The %1$s brand."
+msgstr "A %1$s márka."
+
+#: app/Common/Breadcrumbs/Tags.php:220
+#, php-format
+msgid "The %1$s price."
+msgstr "A %1$s ár."
+
+#: app/Common/Breadcrumbs/Tags.php:227
+#, php-format
+msgid "The %1$s SKU."
+msgstr "A %1$s SKU."
+
+#: app/Common/Breadcrumbs/Tags.php:138
+#, php-format
+msgid "The %1$s title."
+msgstr "A %1$s cím."
+
+#: app/Common/Breadcrumbs/Tags.php:173
+msgid "The 404 error format."
+msgstr "A 404-es hiba formátuma."
+
+#: app/Common/Breadcrumbs/Tags.php:203
+msgid "The archive format."
+msgstr "Az archívum formátuma."
+
+#: app/Common/Breadcrumbs/Tags.php:208
+msgid "The archive post type name."
+msgstr "Az archívum bejegyzéstípusának neve."
+
+#: app/Common/Breadcrumbs/Tags.php:153
+msgid "The author's display name."
+msgstr "A szerző megjelenített neve."
+
+#: app/Common/Breadcrumbs/Tags.php:158
+msgid "The author's first name."
+msgstr "A szerző keresztneve."
+
+#: app/Common/Breadcrumbs/Tags.php:163
+msgid "The author's last name."
+msgstr "A szerző vezetékneve."
+
+#: app/Common/Utils/Tags.php:344
+msgid "The biography of the author."
+msgstr "A szerző életrajza."
+
+#: app/Common/Breadcrumbs/Tags.php:148
+msgid "The blog page title."
+msgstr "A blog oldal cím."
+
+#: app/Common/Utils/Tags.php:463
+msgid "The content of your page/post."
+msgstr "Az oldal/bejegyzés tartalma."
+
+#: app/Common/Breadcrumbs/Tags.php:143
+msgid "The crumb separator."
+msgstr "A morzsa elválasztó."
+
+#: app/Common/Utils/Tags.php:411
+msgid "The current date, localized."
+msgstr "A jelenlegi dátum, lokalizálva."
+
+#: app/Common/Utils/Tags.php:416
+msgid "The current day of the month, localized."
+msgstr "A hónap aktuális napja, lokalizálva."
+
+#: app/Common/Utils/Tags.php:421
+msgid "The current month, localized."
+msgstr "A hónap aktuális része, lokalizálva."
+
+#: app/Common/Utils/Tags.php:426
+msgid "The current year, localized."
+msgstr "Az aktuális év, lokalizálva."
+
+#: app/Common/Utils/Tags.php:329
+msgid "The date of the current archive, localized."
+msgstr "Az aktuális archívum dátuma, lokalizálva."
+
+#: app/Common/Utils/Tags.php:469
+msgid "The date when the page/post was published, localized."
+msgstr "Az oldal/bejegyzés közzétételének dátuma, lokalizálva."
+
+#: app/Common/Utils/Tags.php:475
+msgid "The day of the month when the page/post was published, localized."
+msgstr "Az oldal/bejegyzés közzétételének hónap napja, lokalizálva."
+
+#: app/Common/Breadcrumbs/Tags.php:188
+msgid "The day."
+msgstr "A nap."
+
+#: app/Common/Utils/Tags.php:534
+msgid "The description for your site."
+msgstr "A weboldal leírása."
+
+#: app/Common/Utils/Tags.php:575
+msgid ""
+"The description of the primary term, first assigned term or the current term."
+msgstr ""
+"A fő kifejezés, az első hozzárendelt kifejezés vagy az aktuális kifejezés "
+"leírása."
+
+#: app/Common/Utils/Tags.php:349
+msgid "The display name of the post author."
+msgstr "A bejegyzés szerzőjének megjelenített neve."
+
+#: app/Common/Utils/Tags.php:481
+msgid "The excerpt defined on your page/post."
+msgstr "A weboldalon/bejegyzésben meghatározott kivonat."
+
+#: app/Common/Utils/Tags.php:487
+msgid ""
+"The excerpt defined on your page/post. Will not fall back to the post "
+"content."
+msgstr ""
+"A weboldalon/bejegyzésben meghatározott kivonat. Nem fog visszaesni a "
+"bejegyzés tartalmára."
+
+#: app/Common/Utils/Tags.php:442
+msgid "The featured image of the current page/post."
+msgstr "A jelenlegi oldal/bejegyzés kiemelt képe."
+
+#: app/Common/Admin/SiteHealth.php:90
+#, php-format
+msgid ""
+"The fields below contain important SEO information from %1$s that may effect "
+"your site."
+msgstr ""
+"Az alábbi mezők fontos SEO információkat tartalmaznak a %1$s-től, amelyek "
+"hatással lehetnek a weboldaladra."
+
+#: app/Common/Utils/Tags.php:354
+msgid "The first name of the post author."
+msgstr "A bejegyzés szerzőjének keresztneve."
+
+#: app/Common/Utils/Addons.php:207
+#, php-format
+msgid ""
+"The following addons cannot be used, because they require %1$s%2$s %3$s%4$s "
+"to work:"
+msgstr ""
+"Az alábbi bővítmények nem használhatók, mivel a %1$s%2$s %3$s%4$s szükséges "
+"működésükhöz:"
+
+#: app/Common/Breadcrumbs/Tags.php:125
+msgid "The label."
+msgstr "A címke."
+
+#: app/Common/Utils/Tags.php:359
+msgid "The last name of the post author."
+msgstr "A bejegyzés szerzőjének vezetékneve."
+
+#: app/Common/Utils/Tags.php:437
+msgid "The meta description for the current page/post."
+msgstr "A jelenlegi oldal/bejegyzés meta leírása."
+
+#: app/Common/Utils/Tags.php:493
+msgid "The month when the page/post was published, localized."
+msgstr "A hónap, amikor az oldal/bejegyzés közzétételre került, lokalizálva."
+
+#: app/Common/Breadcrumbs/Tags.php:183
+msgid "The month."
+msgstr "A hónap."
+
+#: app/Common/Utils/Tags.php:563
+msgid ""
+"The name of the first term of a given taxonomy that is assigned to the "
+"current page/post."
+msgstr ""
+"A megadott taxonómia első kifejezésének neve, amely a jelenlegi "
+"oldal/bejegyzéshez van rendelve."
+
+#: app/Common/Utils/Tags.php:569
+msgid "The name of the parent term of the current term."
+msgstr "A jelenlegi kifejezés szülő kifejezésének neve."
+
+#: app/Common/Breadcrumbs/Tags.php:131 app/Common/Utils/Tags.php:519
+msgid "The original title of the current post."
+msgstr "A jelenlegi bejegyzés eredeti címe."
+
+#: app/Common/Utils/Tags.php:447
+msgid "The page number for the current paginated page."
+msgstr "A jelenlegi oldaltördelés oldalszáma."
+
+#: app/Common/Breadcrumbs/Tags.php:198
+msgid "The page number."
+msgstr "Az oldalszám."
+
+#: app/Common/Utils/Tags.php:457
+msgid "The permalink for the current page/post."
+msgstr "A jelenlegi oldal/bejegyzés állandó linkje."
+
+#: app/Common/Admin/SlugMonitor.php:118
+msgid ""
+"The permalink for this post just changed! This could result in 404 errors "
+"for your site visitors."
+msgstr ""
+"Ennek a bejegyzésnek az állandó linkje most változott! Ez 404-es hibákat "
+"eredményezhet a weboldal látogatóinak."
+
+#: app/Common/Breadcrumbs/Tags.php:120
+msgid "The permalink."
+msgstr "Az állandó link."
+
+#: app/Common/Migration/GeneralSettings.php:729
+#, php-format
+msgid ""
+"The phone number that you previously entered for your Knowledge Graph schema "
+"markup is invalid. As it needs to be internationally formatted, please enter "
+"it (%1$s) again with the country code, e.g. +1 (555) 555-1234."
+msgstr ""
+"A korábban megadott telefon szám a Tudás gráf séma jelöléshez érvénytelen. "
+"Mivel nemzetközi formátumban kell megadni, kérjük, add meg újra (%1$s) az "
+"országkóddal, pl. +1 (555) 555-1234."
+
+#: app/Lite/Admin/Connect.php:388
+msgid ""
+"The Pro version installed correctly, but it needs to be activated from the "
+"Plugins page inside your WordPress admin."
+msgstr ""
+"A Pro verzió helyesen telepítve lett, de aktiválni kell a WordPress admin "
+"felületen a Bővítmények oldalon."
+
+#: app/Common/Breadcrumbs/Tags.php:168
+msgid "The search result format."
+msgstr "A keresési eredmény formátuma."
+
+#: app/Common/Breadcrumbs/Tags.php:193
+msgid "The search string."
+msgstr "A keresési szöveg."
+
+#: app/Common/Utils/Tags.php:529
+msgid "The separator defined in the search appearance settings."
+msgstr "A keresési megjelenés beállításokban meghatározott elválasztó."
+
+#: app/Common/Utils/Tags.php:558
+msgid "The tagline for your site, set in the general settings."
+msgstr "A weboldal szlogenje, beállítva az általános beállításokban."
+
+#: app/Common/Utils/Tags.php:524
+msgid "The term the user is searching for."
+msgstr "A kifejezés, amit a felhasználó keres."
+
+#: app/Common/Utils/Tags.php:369
+msgid "The title of the current archive."
+msgstr "A jelenlegi archívum címe."
+
+#: app/Common/Utils/Tags.php:452
+msgid "The title of the parent post of the current page/post."
+msgstr "A jelenlegi oldal/bejegyzés szülő bejegyzésének címe."
+
+#: app/Common/Utils/Tags.php:581
+msgid "The title of the primary term, first assigned term or the current term."
+msgstr ""
+"A fő kifejezés, az első hozzárendelt kifejezés vagy az aktuális kifejezés "
+"címe."
+
+#: app/Common/Utils/Tags.php:364
+msgid "The URL of the author page."
+msgstr "A szerző oldalának URL-je."
+
+#: app/Common/Utils/Tags.php:499
+msgid "The year when the page/post was published, localized."
+msgstr "Az év, amikor az oldal/bejegyzés közzétételre került, lokalizálva."
+
+#: app/Common/Breadcrumbs/Tags.php:178
+msgid "The year."
+msgstr "Az év."
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:34
+msgid "There are no posts here"
+msgstr "Itt nincsenek bejegyzések."
+
+#. 1 - Line break HTML tag, 2 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:140
+#, php-format
+msgid ""
+"There seems to be an issue running JavaScript on your website. %1$s%2$s is "
+"built with JavaScript to give you the best experience possible."
+msgstr ""
+"Úgy tűnik, problémák vannak a JavaScript futtatásával a weboldaladon. A "
+"%1$s%2$s JavaScript-tel van megépítve, hogy a legjobb élményt nyújtsa."
+
+#: app/Common/Tools/RobotsTxt.php:509
+msgid "There was an error deleting the physical robots.txt file."
+msgstr "Hiba történt a fizikai robots.txt fájl törlésében."
+
+#: app/Common/Tools/RobotsTxt.php:477
+msgid "There was an error importing the robots.txt content from the URL."
+msgstr "Hiba történt a robots.txt tartalom importálásában az URL-ből."
+
+#: app/Common/Tools/RobotsTxt.php:417
+msgid "There was an error importing the static robots.txt file."
+msgstr "Hiba történt a statikus robots.txt fájl importálásában."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid ""
+"this is an XML Sitemap, meant to be consumed by search engines like Google "
+"or Bing."
+msgstr ""
+"Ez egy XML webhelytérkép, amit olyan keresőmotorok, mint a Google vagy Bing "
+"használhatnak."
+
+#: app/Common/Admin/Notices/Import.php:41
+msgid ""
+"This notice will automatically disappear as soon as the import has completed."
+" Meanwhile, everything should continue to work as expected."
+msgstr ""
+"Ez az értesítés automatikusan eltűnik, amint az importálás befejeződött. "
+"Közben mindennek a vártnak megfelelően kell működnie."
+
+#: app/Common/Admin/Notices/Migration.php:45
+msgid ""
+"This notice will automatically disappear as soon as the migration has "
+"completed. Meanwhile, everything should continue to work as expected."
+msgstr ""
+"Ez az értesítés automatikusan eltűnik, amint a migráció befejeződött. Közben "
+"mindennek a vártnak megfelelően kell működnie."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "This sitemap contains"
+msgstr "Ez a webhelytérkép tartalmazza"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:45
+msgid "This sitemap index contains"
+msgstr "Ez a webhelytérkép-index tartalmazza"
+
+#. 1 - "statically" or "dynamically", 2 - The date, 3 - The time, 4 - The plugin name ("All in One SEO"), 5 - Currently installed version.
+#: app/Common/Sitemap/Output.php:41
+#, php-format
+msgid ""
+"This sitemap was %1$s generated on %2$s at %3$s by %4$s %5$s - the original "
+"SEO plugin for WordPress."
+msgstr ""
+"Ez a webhelytérkép %1$s készült %2$s időpontban %3$s által a %4$s %5$s "
+"verziójával - az eredeti SEO bővítménnyel WordPress-hez."
+
+#: app/Common/Tools/SystemStatus.php:66
+msgid "Timezone"
+msgstr "Időzóna"
+
+#: app/Common/Admin/Admin.php:346
+#: app/Common/Views/sitemap/html/widget-options.php:13
+msgid "Title"
+msgstr "Cím"
+
+#: app/Common/Breadcrumbs/Widget.php:124
+msgid "Title:"
+msgstr "Cím:"
+
+#: app/Common/Admin/Admin.php:235
+msgid "Tools"
+msgstr "Eszközök"
+
+#: app/Common/Api/Wizard.php:58
+msgid "Try Again"
+msgstr "Próbáld újra"
+
+#: app/Common/QueryArgs/CrawlCleanup.php:208
+msgid "Unblocked"
+msgstr "Feloldva"
+
+#: app/Common/Api/Wizard.php:55
+msgid ""
+"Unfortunately, there was an error importing your SEO plugin settings. This "
+"could be due to an incompatibility in the version installed. Make sure you "
+"are on the latest version of the plugin and try again."
+msgstr ""
+"Sajnálatos módon hiba történt az SEO bővítmény beállításainak importálásában."
+" Ez eredhet a telepített verzió inkompatibilitásából. Győződj meg róla, hogy "
+"a bővítmény legújabb verzióját használod, és próbáld újra."
+
+#: app/Common/Main/Updates.php:1557
+msgid "Universal Analytics V3 Deprecation Notice"
+msgstr "A Universal Analytics V3 elavulási értesítése"
+
+#: app/Common/Tools/SystemStatus.php:242
+msgid "unknown"
+msgstr "ismeretlen"
+
+#: app/Common/Admin/Admin.php:343
+msgid "Update"
+msgstr "Frissítés"
+
+#. 1 - "Pro".
+#: app/Lite/Admin/Notices/Notices.php:84
+#, php-format
+msgid "Upgrade to %1$s"
+msgstr "Frissítés %1$s verzióra"
+
+#. This is an action link users can click to purchase a license for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:51 app/Lite/Admin/Admin.php:80
+#: app/Lite/Main/Filters.php:65
+msgid "Upgrade to Pro"
+msgstr "Frissítés a Pro verzióra"
+
+#: app/Common/Tools/SystemStatus.php:102
+msgid "Upload Directory Info"
+msgstr "Feltöltési könyvtár információk"
+
+#: app/Common/Views/sitemap/xsl/default.php:101
+#: app/Common/Views/sitemap/xsl/default.php:191
+#: app/Common/Views/sitemap/xsl/default.php:271
+#: app/Common/Views/sitemap/xsl/templates/header.php:37
+msgid "URL"
+msgstr "URL"
+
+#: app/Common/Views/sitemap/xsl/default.php:103
+msgid "URL Count"
+msgstr "URL darabszám"
+
+#: app/Common/Tools/SystemStatus.php:105
+msgid "Url:"
+msgstr "URL:"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:40
+msgid "URLs"
+msgstr "URL-k"
+
+#: app/Common/Migration/SocialMeta.php:75
+msgid "Use Content for Autogenerated Descriptions"
+msgstr "Tartalom használata az automatikusan létrehozott leírásokhoz"
+
+#: app/Common/Tools/SystemStatus.php:90
+#, fuzzy
+#| msgid "User Agent"
+msgid "User Count"
+msgstr "Felhasználók száma"
+
+#: app/Common/Tools/SystemStatus.php:62
+msgid "User Language"
+msgstr "Felhasználói nyelv"
+
+#: app/Common/Tools/SystemStatus.php:50
+msgid "Version"
+msgstr "Verzió"
+
+#: app/Common/Views/admin/settings-page.php:180
+msgid "View supported browsers"
+msgstr "Támogatott böngészők megtekintése"
+
+#: app/Common/Tools/SystemStatus.php:99
+msgid "Visible"
+msgstr "Látható"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:573
+#, php-format
+msgid ""
+"Warning: %1$s has detected other active SEO or sitemap plugins. We recommend "
+"that you deactivate the following plugins to prevent any conflicts:"
+msgstr ""
+"Figyelmeztetés: A %1$s más aktív SEO vagy webhelytérkép bővítményeket "
+"észlelt. Javasoljuk, hogy deaktiváld az alábbi bővítményeket a konfliktusok "
+"elkerülése érdekében:"
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:470
+#, php-format
+msgid ""
+"Warning: %1$s has detected that you are blocking access to search engines. "
+"You can change this in Settings > Reading if this was unintended."
+msgstr ""
+"Figyelmeztetés: A %1$s észlelte, hogy blokkolod a keresőmotorok hozzáférését."
+" Ezt megváltoztathatod a Beállítások > Olvasás menüben, ha ez nem szándékos."
+
+#. 1 - The plugin short name ("AIOSEO").#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:519
+#, php-format
+msgid ""
+"Warning: %1$s has detected that you may have an invalid description format. "
+"This could lead to descriptions not being properly applied to your content."
+msgstr ""
+"Figyelmeztetés: A %1$s észlelte, hogy lehet, hogy érvénytelen "
+"leírásformátumot használsz. Ez ahhoz vezethet, hogy a leírások nem "
+"alkalmazódnak megfelelően a tartalmadra."
+
+#. 1 - "WooCommerce", 2 - The plugin short name ("AIOSEO").
+#: app/Lite/Admin/Notices/Notices.php:80
+#, php-format
+msgid ""
+"We have detected you are running %1$s. Upgrade to %2$s to unlock our "
+"advanced eCommerce SEO features, including SEO for Product Categories and "
+"more."
+msgstr ""
+"Észleltük, hogy a %1$s-t használod. Frissíts a %2$s verzióra, hogy hozzáférj "
+"fejlettebb eCommerce SEO funkcióinkhoz, beleértve a termékkategóriák SEO-ját "
+"és még sok mást."
+
+#. 1 - The phone number.
+#: app/Common/ImportExport/RankMath/TitleMeta.php:428
+#, php-format
+msgid ""
+"We were unable to import the phone number that you previously entered for "
+"your Knowledge Graph schema markup.\n"
+"\t\t\t\t\tAs it needs to be internationally formatted, please enter it (%1$s)"
+" with the country code, e.g. +1 (555) 555-1234."
+msgstr ""
+"Nem sikerült importálni a korábban megadott telefonszámot a Knowledge Graph "
+"sémádhoz.\n"
+"\t\t\t\t\tMivel nemzetközi formátumban kell szerepelnie, kérjük, add meg "
+"(%1$s) országkóddal, pl. +1 (555) 555-1234."
+
+#: app/Common/Tools/Htaccess.php:60
+msgid ""
+"We were unable to save the .htaccess file because the file was not writable. "
+"Please check the file permissions and try again."
+msgstr ""
+"Nem sikerült menteni a .htaccess fájlt, mert a fájl nem volt írható. Kérjük, "
+"ellenőrizd a fájl jogosultságait, és próbáld újra."
+
+#: app/Common/Tools/Htaccess.php:87
+msgid ""
+"We were unable to save the .htaccess file due to syntax errors. Please check "
+"the code below and try again."
+msgstr ""
+"Nem sikerült menteni a .htaccess fájlt szintaktikai hibák miatt. Kérjük, "
+"ellenőrizd az alábbi kódot és próbáld újra."
+
+#. 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99
+#, php-format
+msgid ""
+"We're sorry to hear you aren't enjoying %1$s. We would love a chance to "
+"improve. Could you take a minute and let us know what we can do better?"
+msgstr ""
+"Sajnáljuk, hogy nem élvezed a %1$s-t. Szeretnénk lehetőséget kapni a "
+"javításra. Kérlek, szánj egy percet és mondd el, mit tehetnénk jobban?"
+
+#: app/Common/Main/Updates.php:1658
+msgid ""
+"We've made some significant changes to how we monitor Query Args for our "
+"Crawl Cleanup feature. Instead of DISABLING all query args and requiring you "
+"to add individual exceptions, we've now changed it to ALLOW all query args "
+"by default with the option to easily block unrecognized ones through our new "
+"log table."
+msgstr ""
+"Jelentős változtatásokat végeztünk a Query Args nyomon követésének módjában "
+"a Crawl Cleanup funkcióval kapcsolatban. Annyit változtattunk, hogy már nem "
+"DISABLE-eljük az összes query argumentumot és nem kérjük az egyedi kivételek "
+"hozzáadását, hanem alapértelmezetten ENGEDÉLYEZZÜK az összes query "
+"argumentumot, és lehetőséget biztosítunk az ismeretlenek könnyű blokkolására "
+"új napló táblázatunk segítségével."
+
+#: app/Common/Main/Updates.php:1359
+msgid "Web Page"
+msgstr "Weboldal"
+
+#: app/Common/Tools/SystemStatus.php:241
+msgid "Web Server"
+msgstr "Webkiszolgáló"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:32
+msgid "Whoops!"
+msgstr "Hoppá!"
+
+#. 1 - WP Core version number, 2 - AIOSEO version number.
+#: app/Common/Admin/Admin.php:964
+#, php-format
+msgid "WordPress %1$s | AIOSEO %2$s"
+msgstr "WordPress %1$s | AIOSEO %2$s"
+
+#: app/Common/Social/Twitter.php:249
+msgid "Written by"
+msgstr "Írta"
+
+#: app/Common/Breadcrumbs/Tags.php:177
+msgid "Year"
+msgstr "Év"
+
+#: app/Common/Tools/SystemStatus.php:83 app/Common/Tools/SystemStatus.php:87
+#: app/Common/Tools/SystemStatus.php:282 app/Common/Tools/SystemStatus.php:286
+#: app/Common/Tools/SystemStatus.php:290
+msgid "Yes"
+msgstr "Igen"
+
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Yes I love it"
+msgstr "Igen, szeretem"
+
+#: app/Lite/Admin/Connect.php:211
+msgid "You are not allowed to install plugins."
+msgstr "Nincs engedélyed bővítmények telepítésére."
+
+#: app/Lite/Admin/Connect.php:314
+msgid "You are not licensed."
+msgstr "Nincs licenced."
+
+#. 1 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:173
+#, php-format
+msgid ""
+"You are using a browser which is no longer supported by %1$s. Please update "
+"or use another browser in order to access the plugin settings."
+msgstr ""
+" olyan böngészőt használsz, amelyet a %1$s már nem támogat. Kérjük, "
+"frissítsd vagy használj másik böngészőt a bővítmény beállításainak "
+"eléréséhez."
+
+#. 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/header.php:26
+#, php-format
+msgid ""
+"You can find more information about XML Sitemaps at %1$ssitemaps.org%2$s."
+msgstr ""
+"További információkat találhatsz az XML webhelytérképekről a %1$ssitemaps."
+"org%2$s oldalon."
+
+#. 1 - Line break HTML tags, 2 - Plugin short name ("AIOSEO"), Analytics plugin name (e.g. "MonsterInsights").
+#: app/Common/Main/Updates.php:1560
+#, php-format
+msgid ""
+"You have been using the %2$s Google Analytics V3 (Universal Analytics) "
+"integration which has been deprecated by Google and is no longer supported. "
+"This may affect your website's data accuracy and performance.%1$sTo ensure a "
+"seamless analytics experience, we recommend migrating to %3$s, a powerful "
+"analytics solution.%1$s%3$s offers advanced features such as real-time "
+"tracking, enhanced e-commerce analytics, and easy-to-understand reports, "
+"helping you make informed decisions to grow your online presence effectively."
+"%1$sClick the button below to be redirected to the %3$s setup process, where "
+"you can start benefiting from its robust analytics capabilities immediately."
+msgstr ""
+"Használatban volt a %2$s Google Analytics V3 (Universal Analytics) "
+"integráció, amelyet a Google elavultnak nyilvánított, és már nem támogat. Ez "
+"hatással lehet weboldalad adatpontosságára és teljesítményére.%1$sA "
+"zökkenőmentes analitika élmény érdekében azt javasoljuk, hogy migrálj a %3$s "
+"verzióra, amely egy erőteljes analitika megoldás.%1$sA %3$s fejlettebb "
+"funkciókat kínál, mint például valós idejű követés, fejlettebb e-"
+"kereskedelmi analitika, és könnyen érthető jelentések, amelyek segítenek "
+"tájékozott döntéseket hozni a hatékony online jelenlét növelése érdekében."
+"%1$sKattints az alábbi gombra, hogy átirányítást kapj a %3$s beállítási "
+"folyamatára, ahol azonnal élvezheted az erőteljes analitikai képességeit."
+
+#. 1 - A plugin name (e.g. "MonsterInsights", "Broken Link Checker", etc.), 2 - The plugin short name ("AIOSEO").
+#: app/Common/Api/Wizard.php:455
+#, php-format
+msgid ""
+"You selected to install the free %1$s plugin during the setup of %2$s, but "
+"there was an issue during installation. Click below to manually install."
+msgstr ""
+"Az ingyenes %1$s bővítmény telepítését választotta a %2$s beállítása során, "
+"de probléma történt a telepítés közben. Kattintson alább a kézi telepítéshez."
+
+#: app/Common/Views/admin/settings-page.php:167
+msgid "Your browser version is not supported"
+msgstr "A böngészője verziója nem támogatott."
+
+#: app/Common/Admin/SiteHealth.php:375
+msgid "Your entire site is set to globally nofollow content."
+msgstr "Az egész webhelye globálisan nofollow tartalomra van beállítva."
+
+#: app/Common/Admin/SiteHealth.php:309
+msgid "Your entire site is set to globally noindex content."
+msgstr "Az egész webhelye globálisan noindex tartalomra van beállítva."
+
+#: app/Common/Utils/Tags.php:314
+msgid "Your image's alt tag attribute."
+msgstr "A képének alt tag attribútuma."
+
+#: app/Common/Admin/SiteHealth.php:203
+msgid "Your Organization Name and Logo are set"
+msgstr "Az Ön szervezetének neve és logója be van állítva."
+
+#: app/Common/Admin/SiteHealth.php:190
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "Az Ön szervezetének neve és/vagy logója üres."
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:193
+#, php-format
+msgid ""
+"Your Organization Name and/or Logo are blank. These values are required for "
+"%1$s's Organization schema markup."
+msgstr ""
+"Az Ön szervezetének neve és/vagy logója üres. Ezek az értékek szükségesek "
+"%1$s szervezet schema markup-hoz."
+
+#: app/Common/Admin/SiteHealth.php:238
+msgid "Your Person Name and Image are set"
+msgstr "Az Ön neve és képe be van állítva."
+
+#: app/Common/Admin/SiteHealth.php:225
+msgid "Your Person Name and/or Image are blank"
+msgstr "Az Ön neve és/vagy képe üres."
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:228
+#, php-format
+msgid ""
+"Your Person Name and/or Image are blank. These values are required for "
+"%1$s's Person schema markup."
+msgstr ""
+"Az Ön neve és/vagy képe üres. Ezek az értékek szükségesek a %1$s személy "
+"schema markup-hoz."
+
+#. 1 - "AIOSEO Pro", 2 - "AIOSEO Lite".
+#: app/init/notices.php:226
+#, php-format
+msgid ""
+"Your site already has %1$s activated. If you want to switch to %2$s, please "
+"first go to Plugins > Installed Plugins and deactivate %1$s. Then, you can "
+"activate %2$s."
+msgstr ""
+"Webhelyén már aktiválva van a %1$s. Ha át szeretne váltani a %2$s verzióra, "
+"először menjen a Bővítmények > Telepített bővítmények menübe, és deaktiválja "
+"a %1$s-t. Ezután aktiválhatja a %2$s-t."
+
+#: app/Common/Admin/SiteHealth.php:124
+msgid "Your site appears in search results"
+msgstr "Webhelye megjelenik a keresési eredmények között."
+
+#: app/Common/Admin/SiteHealth.php:115
+msgid "Your site does not appear in search results"
+msgstr "Webhelye nem jelenik meg a keresési eredmények között."
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:23
+#, php-format
+msgid ""
+"Your site is running an %1$sinsecure version%2$s of PHP that is no longer "
+"supported. Please contact your web hosting provider to update your PHP "
+"version or switch to a %3$srecommended WordPress hosting company%4$s."
+msgstr ""
+"Webhelyén egy %1$sbiztonságos verziójú%2$s PHP fut, amely már nem támogatott."
+" Kérjük, forduljon webtárhely-szolgáltatójához a PHP verzió frissítéséhez, "
+"vagy váltson egy %3$sajánlott WordPress tárhelyszolgáltatóra%4$s."
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The plugin name ("All in One SEO").
+#: app/init/notices.php:155
+#, php-format
+msgid ""
+"Your site is running an %1$sinsecure version%2$s of WordPress that is no "
+"longer supported. Please update your site to the latest version of WordPress "
+"in order to continue using %3$s."
+msgstr ""
+"Webhelyén egy %1$sbiztonságos verziójú%2$s WordPress fut, amely már nem "
+"támogatott. Kérjük, frissítse webhelyét a legújabb WordPress verzióra a %3$s "
+"további használatához."
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:87
+#, php-format
+msgid ""
+"Your site is running an %1$soutdated version%2$s of PHP that is no longer "
+"supported and may cause issues with %3$s. Please contact your web hosting "
+"provider to update your PHP version or switch to a %4$srecommended WordPress "
+"hosting company%5$s."
+msgstr ""
+"Webhelyén a PHP egy %1$selavult verziója%2$s fut, amely már nem támogatott, "
+"és problémákat okozhat az %3$s bővítménnyel. Kérjük, forduljon webtárhely-"
+"szolgáltatójához a PHP verzió frissítéséhez, vagy váltson egy %4$sajánlott "
+"WordPress tárhelyszolgáltatóra%5$s."
+
+#. 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: app/Common/Admin/Notices/DeprecatedWordPress.php:71
+#, php-format
+msgid ""
+"Your site is running an %1$soutdated version%2$s of WordPress. We recommend "
+"using the latest version of WordPress in order to keep your site secure."
+msgstr ""
+"Webhelyén a WordPress egy %1$selavult verziója%2$s fut. Webhelye "
+"biztonságának megőrzése érdekében javasoljuk a WordPress legújabb "
+"verziójának használatát."
+
+#: app/Common/Admin/SiteHealth.php:116
+msgid ""
+"Your site is set to private. This means WordPress asks search engines to "
+"exclude your website from search results."
+msgstr ""
+"Webhelye privát módra van állítva. Ez azt jelenti, hogy a WordPress arra "
+"kéri a keresőmotorokat, hogy zárják ki webhelyét a keresési eredményekből."
+
+#: app/Common/Admin/SiteHealth.php:125
+msgid ""
+"Your site is set to public. Search engines will index your website and it "
+"will appear in search results."
+msgstr ""
+"Webhelye nyilvános módra van állítva. A keresőmotorok indexálják a webhelyét,"
+" és megjelenik a keresési eredményekben."
+
+#: app/Common/Admin/SiteHealth.php:160
+msgid "Your Site Title and Tagline are set"
+msgstr "A webhelye címe és szlogenje be van állítva."
+
+#: app/Common/Admin/SiteHealth.php:144
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "A webhelye címe és/vagy szlogenje üres."
+
+#. 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:147
+#, php-format
+msgid ""
+"Your Site Title and/or Tagline are blank. We recommend setting both of these "
+"values as %1$s requires these for various features, including our schema "
+"markup"
+msgstr ""
+"A webhelye címe és/vagy szlogenje üres. Javasoljuk, hogy állítsa be mindkét "
+"értéket, mivel a %1$s ezekre szükség van különböző funkciókhoz, beleértve a "
+"schema markup-ot."
+
+#: app/Common/Utils/Tags.php:380 app/Common/Utils/Tags.php:552
+msgid "Your site title."
+msgstr "A webhelye címe."
